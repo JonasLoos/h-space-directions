@@ -2,7 +2,7 @@
 
 Paper: https://arxiv.org/pdf/2303.11073.pdf
 
-This is an inofficial implementation. Not all the details are correct, especially for section 2. All code can be found in [h-space-directions.ipynb](h-space-directions.ipynb).
+This is an inofficial implementation and is based, as the paper, on the [google/ddpm-ema-celebahq-256](https://huggingface.co/google/ddpm-ema-celebahq-256) model. Not all the details are correct, especially for section 2. All code can be found in [h-space-directions.ipynb](h-space-directions.ipynb).
 
 ## Example Results
 
