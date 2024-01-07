@@ -1,0 +1,5 @@
+diffusers
+torch
+scikit-learn
+tqdm
+matplotlib
